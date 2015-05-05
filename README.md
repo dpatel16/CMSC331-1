@@ -1,3 +1,1 @@
-# CMSC331
-Lab
-Okay
+Project2 Merged Webpages
